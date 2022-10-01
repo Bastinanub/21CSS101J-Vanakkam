@@ -1,6 +1,0 @@
-\\printing hello world
-#include
-int main()
-{
-  printf("hello world"
-}
