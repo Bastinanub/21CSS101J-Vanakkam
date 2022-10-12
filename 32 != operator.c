@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 int main() {
+  printf("Register number: RA2211042010007\n");
   int x = 5;
   int y = 3;
-  printf("%d", x != y); // returns 1 (true) because 5 is not equal to 3
+  printf("%d", x != y); 
   return 0;
 }
