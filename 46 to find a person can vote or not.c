@@ -3,6 +3,7 @@
 
 int main()
 {
+ printf("Register number: RA2211042010007\n");
  int age;
  printf("enter your age\n");
  scanf("%d",&age);
