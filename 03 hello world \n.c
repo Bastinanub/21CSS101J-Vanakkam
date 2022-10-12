@@ -3,7 +3,7 @@
 
 int main() 
 {
-    printf("Register number: RA2211042010007");
+    printf("Register number: RA2211042010007\n");
     printf("Hello\n world");
 
     return 0;
