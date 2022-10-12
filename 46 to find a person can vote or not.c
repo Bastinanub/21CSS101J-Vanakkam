@@ -15,5 +15,5 @@ int main()
  {
      printf("cannot vote");
  }
-    return 0;
+  
 }
