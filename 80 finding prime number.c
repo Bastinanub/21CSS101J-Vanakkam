@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-
+  printf("Register number: RA2211042010007);
   int n, i, flag = 0;
   printf("Enter a positive integer: ");
   scanf("%d", &n);
