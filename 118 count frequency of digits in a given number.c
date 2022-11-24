@@ -3,6 +3,7 @@
 
 int main()
 {
+    printf("Register number: RA2211042010007\n\n");
     long long num, n;
     int i, lastDigit;
     int freq[BASE];
